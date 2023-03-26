@@ -1,0 +1,36 @@
+h1{
+    padding: 2em;
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    border: 2px solid black;
+    background-image: url(temp.jpg);
+    background-size: contain;
+    font-size: 35px;
+}
+
+body {
+    background-color: #efefef;
+
+}
+table{
+    border: 2px solid black;
+    text-align: center;  
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 20px;
+}
+tr,td{
+    border: 2px solid black;
+    margin: auto;  
+    font-size: 30px;  
+    width: 200px;
+}
+footer{
+    padding: 2em;
+    margin-top: 20px;
+    border: 2px solid black;
+    background-image: url(temp.jpg);
+    background-size: contain;  
+    font-size: 45px;
+}
